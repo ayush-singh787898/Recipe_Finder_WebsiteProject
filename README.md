@@ -56,9 +56,13 @@ Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 -Mongodb <br>
 -TemplateEngine(Ejs) <br>
 
-<br /
+<br />
 ## Reference
 -recipe website
--Youtube tutorial for api fetch
+  MDN Web Docs: Fetch API – for understanding how to work with APIs in JavaScript.
+  Node.js Documentation: Node.js Official Docs – for backend development and Express.js integration.
+  MongoDB Documentation: MongoDB Official Docs – for managing the database and understanding Mongoose queries.
+  EJS Documentation: EJS Official Docs – for templating with Embedded JavaScript (EJS) in the project.
+  Youtube tutorial for api fetch
 
-##Thanks you
+##Thank you
